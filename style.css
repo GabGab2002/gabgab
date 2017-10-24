@@ -1,7 +1,11 @@
 td {
   font-family:Arial;
 }
+h1{
+  font-size:100px;
+  font-family:sans-serif;
+}
 html{
-  font-size:150px;
+  font-size:60px;
 }
 
